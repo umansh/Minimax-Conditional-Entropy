@@ -1,0 +1,16 @@
+,Age,Work,Own_Apartment,Credit_History,response
+0,Old,No,Yes,Excellent,Yes
+1,Middle,No,Yes,Excellent,Yes
+2,Middle,No,Yes,Moderate,No
+3,Old,Yes,Yes,Moderate,Yes
+4,Old,Yes,No,Moderate,Yes
+5,Young,Yes,No,Moderate,No
+6,Old,Yes,Yes,Good,Yes
+7,Young,Yes,No,Good,No
+8,Old,Yes,Yes,Excellent,Yes
+9,Young,No,Yes,Moderate,Yes
+10,Old,No,No,Good,Yes
+11,Old,Yes,Yes,Moderate,Yes
+12,Middle,No,No,Good,No
+13,Young,No,No,Good,No
+14,Young,Yes,No,Moderate,Yes
