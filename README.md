@@ -13,7 +13,7 @@ here, data  have generated for binary classification. The given research paper i
 multiclass classification. i have choose binary classification for to gain knowledge 
 and how given algorithem 1 works.for this purpose  the input data was convereted to 
 ordinal data  set and output of each input was converted to binary using label encoder.
-Then empirical tensor calculated using entropy od the data, so that  difference between
+Then empirical tensor calculated using entropy of the data, so that  difference between
 actual and predicted output should be zero. to generate worker confusion matrix, 
 different 4 methods use such as LogisticRegression,GaussianNB, svm, KNeighborsClassifier
 to achieve confusion matrix for worker. following, probability of ech class have been 
